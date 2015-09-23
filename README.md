@@ -18,3 +18,10 @@ The required input files are:
 * fil_info       : at(3,3) and bg(3,3), i.e. direct and reciprocal lattice vectors
 * Cnu.txt        : el-ph parameters
 * wo.in          : LO frequencies
+
+## Things to do
+
+* Adding velocity dependencies to scattring rate calculations
+* Unifying collinear and noncollinear calculations
+* Unifying constant rate and full rate calculations
+* MPI parallelization
