@@ -21,6 +21,8 @@ The required input files are:
 
 ## Things to do
 
+* Implementation of automated smearing parameter determination for Dirac-delta function
+* Implementation of grid reduction by the condition E_F - a kT <= E_{nk} <= E_F + a kT, a being larger than 1
 * Adding velocity dependencies to scattring rate calculations
 * Unifying collinear and noncollinear calculations
 * Unifying constant rate and full rate calculations
